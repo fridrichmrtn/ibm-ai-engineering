@@ -8,3 +8,6 @@ scikit-learn
 tensorflow[and-cuda]
 keras-tuner
 gymnasium
+torch
+torchvision
+torchaudio
