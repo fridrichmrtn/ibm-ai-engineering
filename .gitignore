@@ -4,3 +4,4 @@
 *.keras
 *.csv
 *.pth
+*.h5
