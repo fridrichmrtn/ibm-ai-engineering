@@ -12,7 +12,4 @@ gymnasium
 torch
 torchvision
 torchaudio
-torchtext
-sentencepiece
-transformers
 
