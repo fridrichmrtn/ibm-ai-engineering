@@ -16,4 +16,8 @@ sentencepiece
 transformers
 nltk
 spacy
+pmdarima
 portalocker
+plotly
+dash
+nbformat
