@@ -16,6 +16,7 @@ sentencepiece
 transformers
 nltk
 spacy
+gensim
 pmdarima
 portalocker
 plotly
