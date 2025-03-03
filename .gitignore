@@ -1,7 +1,18 @@
+# env & data dirs
 *env/
-*data/
+data/
+sample_data/
+.vector_cache/
 *results/
+
+# model & data files
 *.keras
-*.csv
 *.pth
 *.h5
+*.csv
+*.pt
+
+# glove files
+glove*.txt
+glove*.zip
+glove*.pt
