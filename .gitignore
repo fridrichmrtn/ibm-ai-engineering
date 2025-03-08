@@ -11,6 +11,7 @@ sample_data/
 *.h5
 *.csv
 *.pt
+*.pkl
 
 # glove files
 glove*.txt
