@@ -17,6 +17,7 @@ transformers
 nltk
 spacy
 gensim
+Levenshtein
 pmdarima
 portalocker
 plotly
