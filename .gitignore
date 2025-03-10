@@ -12,6 +12,8 @@ sample_data/
 *.csv
 *.pt
 *.pkl
+*.zip
+*.DS_Store
 
 # glove files
 glove*.txt
