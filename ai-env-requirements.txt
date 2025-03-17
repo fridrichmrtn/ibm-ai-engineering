@@ -17,6 +17,10 @@ torchmetrics
 sentencepiece
 transformers
 accelerate
+huggingface_hub
+peft
+bitsandbytes
+evaluate
 datasets
 dataset
 nltk
@@ -24,10 +28,13 @@ spacy
 gensim
 Levenshtein
 pmdarima
+
 portalocker
 plotly
 dash
 nbformat
+
+
 
 pdfplumber
 fpdf

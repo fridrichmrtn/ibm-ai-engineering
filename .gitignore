@@ -17,8 +17,12 @@ sample_data/
 *.pdf
 */*.txt
 */trained_model/*
+*.json
 
 # glove files
 glove*.txt
 glove*.zip
 glove*.pt
+
+# qlora files
+*qlora*/
