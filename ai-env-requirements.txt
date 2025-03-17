@@ -6,14 +6,19 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+trl # reinforcement learning
 #tensorflow[and-cuda]
 torch==2.2.2
 torchvision
 torchaudio
 torchtext==0.17.2
 torchdata==0.7.1
+torchmetrics
 sentencepiece
 transformers
+accelerate
+datasets
+dataset
 nltk
 spacy
 gensim
