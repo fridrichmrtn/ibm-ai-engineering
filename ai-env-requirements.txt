@@ -21,6 +21,7 @@ huggingface_hub
 peft
 bitsandbytes
 evaluate
+sacrebleu
 datasets
 dataset
 nltk
@@ -33,8 +34,6 @@ portalocker
 plotly
 dash
 nbformat
-
-
 
 pdfplumber
 fpdf

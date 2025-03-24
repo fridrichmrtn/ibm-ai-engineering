@@ -15,9 +15,12 @@ sample_data/
 *.zip
 *.DS_Store
 *.pdf
+*/*/*.txt
 */*.txt
-*/trained_model/*
+*/*_model/*
 *.json
+*.bin
+*.safetensors
 
 # glove files
 glove*.txt
