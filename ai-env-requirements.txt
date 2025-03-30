@@ -6,7 +6,7 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-trl # reinforcement learning
+trl==0.11.0 # reinforcement learning
 #tensorflow[and-cuda]
 torch==2.2.2
 torchvision
@@ -15,7 +15,7 @@ torchtext==0.17.2
 torchdata==0.7.1
 torchmetrics
 sentencepiece
-transformers
+transformers<=4.45
 accelerate
 huggingface_hub
 peft

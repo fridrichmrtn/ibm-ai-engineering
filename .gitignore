@@ -21,6 +21,9 @@ sample_data/
 *.json
 *.bin
 *.safetensors
+*.tar
+*/dpo
+*/DPO
 
 # glove files
 glove*.txt
