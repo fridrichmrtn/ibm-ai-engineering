@@ -1,6 +1,7 @@
 ipykernel
 ipywidgets
 requests
+wget
 numpy==1.*
 pandas
 matplotlib
@@ -40,3 +41,4 @@ pdfplumber
 fpdf
 
 sacremoses
+faiss-cpu
