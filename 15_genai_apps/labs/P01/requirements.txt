@@ -1,4 +1,6 @@
 ipykernel
+black
+ruff
 pylint
 langchain
 gradio
@@ -6,3 +8,4 @@ transformers
 bs4
 requests
 torch
+ff
