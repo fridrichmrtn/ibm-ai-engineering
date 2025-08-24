@@ -9,5 +9,6 @@ bs4
 requests
 torch
 ff
-flask
-flask_cors
+torch
+torchvision
+torchaudio
