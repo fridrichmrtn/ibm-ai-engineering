@@ -4,6 +4,7 @@ data/
 sample_data/
 .vector_cache/
 *results/
+.ruff*
 
 # model & data files
 *.keras
@@ -33,3 +34,6 @@ glove*.pt
 
 # qlora files
 *qlora*/
+
+# openai
+openai_*
