@@ -37,3 +37,6 @@ glove*.pt
 
 # openai
 openai_*
+
+# hf
+hf_token
