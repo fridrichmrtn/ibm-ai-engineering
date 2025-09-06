@@ -1,0 +1,9 @@
+pypdf
+accelerate
+bitsandbytes
+chromadb
+langchain-huggingface
+langchain-community
+sentence-transformers
+InstructorEmbedding
+langchain-openai
