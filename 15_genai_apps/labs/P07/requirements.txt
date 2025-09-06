@@ -1,0 +1,6 @@
+# installing necessary pacakges in my_env
+gradio
+email-validator
+numpy
+pandas
+openai
